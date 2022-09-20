@@ -8,7 +8,7 @@
 <div align=center>
    <img src="https://komarev.com/ghpvc/?username=shariqmalik&style=flat&color=blueviolet" alt=shariqmalik/> 
 </div>
-<img align="right" alt="GIF" style="hight:500px;width:500px;margin-right: 20px;" src="https://github.com/shariqmalik/shariqmalik/raw/main/images/coding-boy.gif">
+<img align="right" alt="GIF" style="hight:450px;width:450px;margin-right: 20px;" src="https://github.com/shariqmalik/shariqmalik/raw/main/images/coding-boy.gif">
 <br><br>
 
 
