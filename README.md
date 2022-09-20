@@ -12,22 +12,34 @@
 <br><br>
 
 
-## :sassy_man: About me
 
-- :school: I am a `Pentester` 
+```json
+About me
 
-- :trophy: `Elite Hacker` at HackTheBox
-
-- :technologist: I love using Google as a solution for every `Problem`
-
-- :computer: I am a creative programmer mainly at `Python`
-
-- :student: I’m currently learning: `Cloud Security` and `Reversing`.
-
-- :nerd_face: Always `learning new things`
-
-- :heart:  Love to play `FPS` games
-
+{
+  "Intro":[
+    "I am a Pentester",
+    "Elite Hacker at HackTheBox",
+    "Automation Lover",
+    "Love using Google as a solution for every Problem"
+  ],
+  "currently_learning":[
+    "Cloud Security",
+    "Reversing",
+    "Advance Red Teaming"
+  ],
+  "hobbies":[
+    {
+      "Gaming":[
+        "Valorant",
+        "CS:GO",
+        "COD",
+        "PUBG"
+      ]
+    }
+  ]
+}
+```
 
 
 <br><br>
