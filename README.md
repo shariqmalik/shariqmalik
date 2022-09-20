@@ -29,12 +29,12 @@ About me
     "Advance Red Teaming"
   ],
   "hobbies":[
-    {
-      "Gaming":
-      ["Valorant", "CS:GO","COD", "PUBG"]
-    }
+   {
+    "Gaming":
+    ["Valorant", "CS:GO","COD", "PUBG"]
+   }
   ]
-}
+ }
 ```
 
 
