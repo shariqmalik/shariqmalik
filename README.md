@@ -32,36 +32,30 @@
 
 <br><br>
 <div align=center>
-   <h3 align="center" > <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/animation.gif" width="30" height="30" style="margin-right: 10px;">Connect me<img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/animation.gif" width="30" height="30" style="margin-left: 10px;"></h3>
-   <div align="center"  class="icons-social" style="margin-left: 10px;">
-      <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/malikshariq/">
-      <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/linkedin--v2.png"></a>
-      <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/_shariqmalik">
-      <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/twitter-squared--v2.png" ></a>
-      <a style="margin-left: 10px;"  target="_blank" href="https://app.hackthebox.com/profile/5992">
-      <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/htb.png"></a>
-   </div>
-   <div align=center>
-      <h1>Contribution Activities</h1>
-      <table style="border: none;">
-         <tr>
-            <td>
-                <a href="https://github.com/shariqmalik#gh-dark-mode-only">
-                    <img src="https://github-readme-stats.vercel.app/api?username=shariqmalik&theme=midnight-purple#gh-dark-mode-only&show_icons=true" alt="GitHub Stats" height="200" />
-                </a>
-                <a href="https://github.com/shariqmalik#gh-light-mode-only">
-                    <img src="https://github-readme-stats.vercel.app/api?username=shariqmalik&theme=buefy#gh-light-mode-only&show_icons=true" alt="GitHub Stats" height="200" />
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/shariqmalik#gh-dark-mode-only">
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariqmalik&theme=midnight-purple#gh-dark-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
-                </a>
-                <a href="https://github.com/shariqmalik#gh-light-mode-only">
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariqmalik&theme=buefy#gh-light-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
-                </a>
-            </td>
-         </tr>
-      </table>
-   </div>
+    <h3 align="center" > <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/animation.gif" width="30" height="30" style="margin-right: 10px;">Connect me<img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/animation.gif" width="30" height="30" style="margin-left: 10px;"></h3>
+    <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/malikshariq/">
+        <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/_shariqmalik">
+        <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/twitter-squared--v2.png" ></a>
+        <a style="margin-left: 10px;"  target="_blank" href="https://app.hackthebox.com/profile/5992">
+        <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/htb.png"></a>
+    </div>
+    <div align=center>
+        <h1>Contribution Activities</h1>
+        <div align="center">
+            <a href="https://github.com/shariqmalik#gh-dark-mode-only">
+            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shariqmalik&theme=midnight-purple#gh-dark-mode-only&show_icons=true" alt="GitHub Stats" height="200" />
+            </a>
+            <a href="https://github.com/shariqmalik#gh-light-mode-only">
+            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shariqmalik&theme=buefy#gh-light-mode-only&show_icons=true" alt="GitHub Stats" height="200" />
+            </a>
+            <a href="https://github.com/shariqmalik#gh-dark-mode-only">
+            <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=shariqmalik&theme=midnight-purple#gh-dark-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
+            </a>
+            <a href="https://github.com/shariqmalik#gh-light-mode-only">
+            <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=shariqmalik&theme=buefy#gh-light-mode-only&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" height="200"/>
+            </a>
+        </div>
+    </div>
 </div>
