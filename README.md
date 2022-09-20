@@ -14,6 +14,7 @@
 
 
 ```json
+ 
 About me
 
 {
@@ -21,7 +22,6 @@ About me
     "I am a Pentester",
     "Elite Hacker at HackTheBox",
     "Automation Lover",
-    "Love using Google as a solution for every Problem"
   ],
   "currently_learning":[
     "Cloud Security",
@@ -29,16 +29,12 @@ About me
     "Advance Red Teaming"
   ],
   "hobbies":[
-    {
-      "Gaming":[
-        "Valorant",
-        "CS:GO",
-        "COD",
-        "PUBG"
-      ]
-    }
+   {
+    "Gaming":
+    ["Valorant", "CS:GO","COD", "PUBG"]
+   }
   ]
-}
+ }
 ```
 
 
