@@ -6,7 +6,8 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%238A2BE2&size=48&center=true&vCenter=true&width=600&height=60&lines=I%27m+a+Pentester;Problem+Solver;Open-Source+Enthusiast;I+love+to+Automate+stuff" alt="Headline" />
 </div>
 <div align=center>
-   <img src="https://komarev.com/ghpvc/?username=shariqmalik&style=flat&color=blueviolet" alt=shariqmalik/> 
+   <img src="https://komarev.com/ghpvc/?username=shariqmalik&style=flat&color=blueviolet" alt="profile-views"/> 
+   <img src="https://img.shields.io/github/stars/shariqmalik?label=Stars&style=flat&color=blueviolet" alt="stars">
 </div>
 <img align="right" alt="GIF" style="hight:450px;width:450px;margin-right: 20px;" src="https://github.com/shariqmalik/shariqmalik/raw/main/images/coding-boy.gif">
 <br><br>
