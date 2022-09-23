@@ -8,6 +8,7 @@
 <div align=center>
    <img src="https://komarev.com/ghpvc/?username=shariqmalik&style=flat&color=blueviolet" alt="profile-views"/> 
    <img src="https://img.shields.io/github/stars/shariqmalik?label=Stars&style=flat&color=blueviolet" alt="stars">
+   <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&style=flat&color=blueviolet&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dshariqmalik&longCache=true"/>
 </div>
 <img align="right" alt="GIF" style="hight:450px;width:450px;margin-right: 20px;" src="https://github.com/shariqmalik/shariqmalik/raw/main/images/coding-boy.gif">
 <br><br>
