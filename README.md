@@ -1,7 +1,7 @@
 <div align=center>
    <img src="https://github.com/shariqmalik/shariqmalik/raw/main/images/me.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
-<h1 align="center">Hi, I'm <a href="https://tinyurl.com/shariqmalik" target="_blank" rel="noopener noreferrer">Shariq!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm <a href="https://shariqmalik.com" target="_blank" rel="noopener noreferrer">Shariq!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align=center>
    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%238A2BE2&size=48&center=true&vCenter=true&width=600&height=60&lines=I%27m+a+Pentester;Problem+Solver;Open-Source+Enthusiast;I+love+to+Automate+stuff" alt="Headline" />
 </div>
